@@ -88,3 +88,4 @@ echo "Report directory: $GPU_MONITOR_BUNDLE_DIR"
 - **View the report**: open `report.html` in the bundle directory with a browser to inspect memory usage curves and statistics.
 
 The script only generates `report.html` and CSV files. If you need to keep the report, archive or download it from the working directory yourself.
+
