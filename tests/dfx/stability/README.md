@@ -87,5 +87,5 @@ echo "Report directory: $GPU_MONITOR_BUNDLE_DIR"
   - After `finalize`, you get `gpu_monitor_bundle_<run_id>/` containing `gpu_metrics.csv`, `report.html`, and `README.txt`.
 - **View the report**: open `report.html` in the bundle directory with a browser to inspect memory usage curves and statistics.
 
-The script only generates `report.html` and CSV files. If you need to keep the report, archive or download it from the working directory yourself.
 
+The script only generates `report.html` and CSV files. If you need to keep the report, archive or download it from the working directory yourself.
